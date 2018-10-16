@@ -1,0 +1,14 @@
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Repository\bin\Debug\netcoreapp2.1\WebAplicationCore.Repository.deps.json
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Repository\bin\Debug\netcoreapp2.1\WebAplicationCore.Repository.dll
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Repository\obj\Debug\netcoreapp2.1\WebAplicationCore.Repository.csprojAssemblyReference.cache
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Repository\obj\Debug\netcoreapp2.1\WebAplicationCore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Repository\obj\Debug\netcoreapp2.1\WebAplicationCore.Repository.AssemblyInfoInputs.cache
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Repository\obj\Debug\netcoreapp2.1\WebAplicationCore.Repository.AssemblyInfo.cs
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Repository\bin\Debug\netcoreapp2.1\WebAplicationCore.Models.dll
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Repository\bin\Debug\netcoreapp2.1\WebAplicationCore.Repository.runtimeconfig.json
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Repository\bin\Debug\netcoreapp2.1\WebAplicationCore.Repository.runtimeconfig.dev.json
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Repository\bin\Debug\netcoreapp2.1\WebAplicationCore.Repository.pdb
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Repository\bin\Debug\netcoreapp2.1\WebAplicationCore.Models.pdb
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Repository\obj\Debug\netcoreapp2.1\WebAplicationCore.Repository.csproj.CopyComplete
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Repository\obj\Debug\netcoreapp2.1\WebAplicationCore.Repository.dll
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Repository\obj\Debug\netcoreapp2.1\WebAplicationCore.Repository.pdb

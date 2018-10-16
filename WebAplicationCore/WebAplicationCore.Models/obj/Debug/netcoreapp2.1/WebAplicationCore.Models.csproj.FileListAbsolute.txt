@@ -1,0 +1,8 @@
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Models\bin\Debug\netcoreapp2.1\WebAplicationCore.Models.deps.json
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Models\bin\Debug\netcoreapp2.1\WebAplicationCore.Models.dll
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Models\bin\Debug\netcoreapp2.1\WebAplicationCore.Models.pdb
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Models\obj\Debug\netcoreapp2.1\WebAplicationCore.Models.csproj.CoreCompileInputs.cache
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Models\obj\Debug\netcoreapp2.1\WebAplicationCore.Models.AssemblyInfoInputs.cache
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Models\obj\Debug\netcoreapp2.1\WebAplicationCore.Models.AssemblyInfo.cs
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Models\obj\Debug\netcoreapp2.1\WebAplicationCore.Models.dll
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Models\obj\Debug\netcoreapp2.1\WebAplicationCore.Models.pdb

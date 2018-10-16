@@ -1,0 +1,16 @@
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\bin\Debug\netcoreapp2.1\WebAplicationCore.Business.deps.json
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\bin\Debug\netcoreapp2.1\WebAplicationCore.Business.dll
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\obj\Debug\netcoreapp2.1\WebAplicationCore.Business.csprojAssemblyReference.cache
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\obj\Debug\netcoreapp2.1\WebAplicationCore.Business.csproj.CoreCompileInputs.cache
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\obj\Debug\netcoreapp2.1\WebAplicationCore.Business.AssemblyInfoInputs.cache
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\obj\Debug\netcoreapp2.1\WebAplicationCore.Business.AssemblyInfo.cs
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\bin\Debug\netcoreapp2.1\WebAplicationCore.Business.runtimeconfig.json
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\bin\Debug\netcoreapp2.1\WebAplicationCore.Business.runtimeconfig.dev.json
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\bin\Debug\netcoreapp2.1\WebAplicationCore.Business.pdb
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\obj\Debug\netcoreapp2.1\WebAplicationCore.Business.dll
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\obj\Debug\netcoreapp2.1\WebAplicationCore.Business.pdb
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\bin\Debug\netcoreapp2.1\WebAplicationCore.Models.dll
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\bin\Debug\netcoreapp2.1\WebAplicationCore.Repository.dll
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\bin\Debug\netcoreapp2.1\WebAplicationCore.Models.pdb
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\bin\Debug\netcoreapp2.1\WebAplicationCore.Repository.pdb
+C:\Users\lucas.zamecki\Documents\MyDocs\WebApiCore\WebAplicationCore\WebAplicationCore.Business\obj\Debug\netcoreapp2.1\WebAplicationCore.Business.csproj.CopyComplete
